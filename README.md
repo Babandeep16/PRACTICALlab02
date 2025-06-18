@@ -1,5 +1,9 @@
 # Practical Lab 02: Multivariate Linear Regression, Non-Parametric Models, and Cross-Validation
 
+Name- Babandeep
+StudentID- 9001552
+Course- Foundations of machine learning and frameworks
+
 ##  Objective
 
 Build predictive models using the **Scikit-learn Diabetes Dataset** to estimate disease progression one year after baseline. Explore both **univariate** and **multivariate models**, including **polynomial regression**, **decision trees**, and **k-Nearest Neighbors**.
