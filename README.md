@@ -47,8 +47,7 @@ Build predictive models using the **Scikit-learn Diabetes Dataset** to estimate 
 
 ##  File Structure
 PRACTICALLAB02/
-│
-├── PA2.ipynb # Final notebook
-├── requirements.txt # Environment dependencies
-├── README.md # Project summary
+- PA2.ipynb # Final notebook
+- requirements.txt # Environment dependencies
+- README.md # Project summary
 
